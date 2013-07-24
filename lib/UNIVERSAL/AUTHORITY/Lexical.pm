@@ -5,7 +5,7 @@ use strict;
 
 BEGIN {
 	$UNIVERSAL::AUTHORITY::Lexical::AUTHORITY = 'cpan:TOBYINK';
-	$UNIVERSAL::AUTHORITY::Lexical::VERSION   = '0.002';	
+	$UNIVERSAL::AUTHORITY::Lexical::VERSION   = '0.003';	
 }
 
 use Object::AUTHORITY;
